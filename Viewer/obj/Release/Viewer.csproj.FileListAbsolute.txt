@@ -1,0 +1,38 @@
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\Window1.baml
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\Window1.g.cs
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\Viewer.Properties.Resources.resources
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\Viewer.csproj.GenerateResource.Cache
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\App.g.cs
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\ULSViewer_MarkupCompile.cache
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\ULSViewer.g.resources
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\bin\Release\ULSViewer.exe
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\bin\Release\ULSViewer.pdb
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\ULSViewer.exe
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Release\ULSViewer.pdb
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\ULSViewer.exe
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\ULSViewer.pdb
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\bin\Release\ULSViewer.exe
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\bin\Release\ULSViewer.pdb
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\Window1.baml
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\Window1.g.cs
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\App.g.cs
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\ULSViewer_MarkupCompile.cache
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\ULSViewer.g.resources
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\Viewer.Properties.Resources.resources
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Release\Viewer.csproj.GenerateResource.Cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Release\ULSViewer.exe.config
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Release\ULSViewer.exe
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Release\ULSViewer.pdb
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\Viewer.csprojAssemblyReference.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\Window1.baml
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\Window1.g.cs
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\App.g.cs
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\ULSViewer_MarkupCompile.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\ULSViewer.g.resources
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\Viewer.Properties.Resources.resources
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\Viewer.csproj.GenerateResource.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\Viewer.csproj.CoreCompileInputs.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\ULSViewer.exe
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Release\ULSViewer.pdb

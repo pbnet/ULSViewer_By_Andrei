@@ -1,0 +1,56 @@
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Window1.baml
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Window1.g.cs
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Viewer_MarkupCompile.cache
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Viewer.g.resources
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\stefan.gordon\Documents\Visual Studio 2008\Projects\ULSViewer\Viewer\obj\Debug\Viewer.g.cs
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\bin\Debug\ULSViewer.exe
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\bin\Debug\ULSViewer.pdb
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\Window1.baml
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\Window1.g.cs
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\App.g.cs
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\ULSViewer_MarkupCompile.cache
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\ULSViewer.g.resources
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\ULSViewer.exe
+C:\Users\stefan.gordon\Desktop\Code\ULSViewer\Viewer\obj\Debug\ULSViewer.pdb
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.exe
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.pdb
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.csprojAssemblyReference.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Window1.baml
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Window1.g.cs
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\App.g.cs
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer_MarkupCompile.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.g.resources
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.exe
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.pdb
+F:\Desktop\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.exe.config
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.exe.config
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.exe.manifest
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.application
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.exe
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\bin\Debug\ULSViewer.pdb
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.csprojAssemblyReference.cache
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Window1.baml
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Window1.g.cs
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\App.g.cs
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer_MarkupCompile.cache
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.g.resources
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.cache
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\Viewer.csproj.CoreCompileInputs.cache
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.exe.manifest
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.application
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.exe
+E:\TO RECORD\ULS Viewer by Andrei CODE\ULSViewer\releases\2\78525b29-7109-4cd8-bf96-146b172895e8~\ULSViewer\Viewer\obj\Debug\ULSViewer.pdb
