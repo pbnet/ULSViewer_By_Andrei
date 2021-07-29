@@ -59,7 +59,7 @@ namespace Viewer
 
         private void Help_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("ULS Logs Viewer for SharePoint \n An idea by Andrei", "About");
+            MessageBox.Show("ULS Logs Viewer for SharePoint \n An idea by Andrei Rachita", "About");
         }
 
         private void OpenFile(string[] fileNames)
