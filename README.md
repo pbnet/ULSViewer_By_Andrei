@@ -1,2 +1,2 @@
-# ULSViewer_By_Andrei
+# ULSViewer_By_Andrei_Rachita
 A SharePoint ULS Viewer
